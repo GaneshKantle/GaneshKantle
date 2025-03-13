@@ -4,7 +4,7 @@
 - 🌱 Currently exploring **Blockchain, ReactJS, and Smart Contracts**  
 - 💡 Always eager to **learn, build, and contribute to open-source projects**  
 - 💞️ Looking to collaborate on **Web3, DeFi, and ReactJS-based projects**  
-- 📫 Reach me at **[ganeshkantle@gmail.com]**  
+- 📫 Reach me at **ganeshkantle@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I believe the future is decentralized! 🚀**  
 
