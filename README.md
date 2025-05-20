@@ -5,7 +5,7 @@
 - 💡 Always eager to **learn, build, and contribute to open-source projects**  
 - 💞️ Looking to collaborate on **Web3, DeFi, and ReactJS-based projects**  
 - 📫 Reach me at **ganeshkantle@gmail.com**
-- My Portfolio : [![Click Here](https://ganesh-portfolio-dusky.vercel.app/) ]
+- 🗿 My Portfolio: [Click Here](https://ganesh-portfolio-dusky.vercel.app/)
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I believe the future is decentralized! 🚀**  
 
