@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ganesh Kantle  
 
-- 👀 Passionate about **Web3, Blockchain, and Frontend Development**  
+- 👀 Passionate about **Frontend Development, Web3, and Blockchain**  
 - 🌱 Currently exploring **Blockchain, ReactJS, and Smart Contracts**  
 - 💡 Always eager to **learn, build, and contribute to open-source projects**  
 - 💞️ Looking to collaborate on **Web3, DeFi, and ReactJS-based projects**  
