@@ -23,7 +23,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkantle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshkantle&theme=react-dark&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshkantle&bg_color=0d1117&color=58a6ff&line=3fb950&point=1f6feb&area=true&hide_border=true)
 
 
 ---
