@@ -1,32 +1,62 @@
-### 👋 Hi, I’m Ganesh Kantle  
-
-- 👀 Passionate about **Frontend Development, Web3, and Blockchain**  
-- 🌱 Currently exploring **Blockchain, ReactJS, and Smart Contracts**  
-- 💡 Always eager to **learn, build, and contribute to open-source projects**  
-- 💞️ Looking to collaborate on **Web3, DeFi, and ReactJS-based projects**  
-- 📫 Reach me at **ganeshkantle@gmail.com**
-- 🗿 My Portfolio: [Click Here](https://ganesh-portfolio-dusky.vercel.app/)
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I believe the future is decentralized! 🚀**  
-
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ganeshgani63) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.ganesshhh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ganeshkantle) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ganeshkantle)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ganeshkantle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshkantle@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ganeshkantle&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkantle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshkantle&bg_color=0d1117&color=58a6ff&line=3fb950&point=1f6feb&area=true&hide_border=true)
-
+<h1 align="center">Hi 👋, I'm Ganesh Kantle</h1>
+<h3 align="center">AI Web Developer • Web3 Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ganeshkantle&icon=0&color=10)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+
+- 🌱 Currently learning **Blockchain, Smart Contracts, React & Next.js**
+- 💻 Frontend Developer focused on **ReactJS, JavaScript & Modern UI**
+- 🔗 Exploring **Web3, Solidity & DeFi**
+- 🤝 Open to collaborating on **Open Source, React & Blockchain Projects**
+- 📫 **Email:** ganeshkantle@gmail.com
+- 🌐 **Portfolio:** https://ganesh-portfolio-dusky.vercel.app
+- ⚡ Fun Fact: *The future is decentralized.*
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganeshkantle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ganeshkantle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@ganeshkantle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/ganeshkantle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaneshKantle/GaneshKantle/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
+# Contribution Graph
+
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaneshKantle&theme=github-dark&hide_border=true)](https://github.com/GaneshKantle)
+
+---
