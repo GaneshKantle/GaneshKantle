@@ -10,7 +10,7 @@
 - 🔗 Exploring **Web3, Solidity & DeFi**
 - 🤝 Open to collaborating on **Open Source, React & Blockchain Projects**
 - 📫 **Email:** ganeshkantle@gmail.com
-- 🌐 **Portfolio:** https://ganesh-portfolio-dusky.vercel.app
+- 🌐 **Portfolio:** https://ganesh-kantle.vercel.app
 - ⚡ Fun Fact: *The future is decentralized.*
 
 ---
